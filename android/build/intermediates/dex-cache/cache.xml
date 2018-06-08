@@ -30,6 +30,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/kelvanince/Projects/places/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/kelvanince/Projects/places/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.0.1_f3e5d72bd9cbc0591006efc1ff231a6819bc5870.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/kelvanince/Projects/places/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu/1.5.4/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -156,6 +165,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/kelvanince/Projects/places/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/Users/kelvanince/Projects/places/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-10.0.1_2da8c83dc7242573e9d931559d870f73c2f6fe2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/kelvanince/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
         jumboMode="false"
         optimize="true"
@@ -201,6 +219,24 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/kelvanince/Projects/places/android/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e41a052c714bf67f743c22ed74153422ad773f88">
+        <dex dex="/Users/kelvanince/Projects/places/android/app/build/intermediates/pre-dexed/debug/com.google.maps.android-android-maps-utils-0.5_cfdbf0ac1c4aebd7533a2aeceb002fd8ceba5066.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kelvanince/Projects/places/android/app/build/intermediates/exploded-aar/places/react-native-image-picker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="beca3a29d7f67ed2242e46811ce303ec5417bb39">
+        <dex dex="/Users/kelvanince/Projects/places/android/app/build/intermediates/pre-dexed/debug/places-react-native-image-picker-unspecified_c7d0aad9738de1e22c51bda34665ea61fcc43c30.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/kelvanince/Projects/places/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -216,6 +252,15 @@
         revision="25.0.1"
         sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
         <dex dex="/Users/kelvanince/Projects/places/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_b28a78f06c2f5fbbc621c7af1cb1b6bb46c17bf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kelvanince/Projects/places/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/kelvanince/Projects/places/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.0.1_8a82e927fafb493d1ebf3dd7263218ef1e778656.jar" />
     </item>
     <item
         is-multidex="false"
@@ -243,6 +288,15 @@
         revision="23.0.1"
         sha1="9809e90be788acdb479b2b44e2112f3295a03068">
         <dex dex="/Users/kelvanince/Projects/places/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_241e0606897cedab2bafddbce257d21b80eb0bad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kelvanince/Projects/places/android/app/build/intermediates/exploded-aar/places/react-native-maps/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="36f4796c6cd7db89379938935396c1acac016d7f">
+        <dex dex="/Users/kelvanince/Projects/places/android/app/build/intermediates/pre-dexed/debug/places-react-native-maps-unspecified_6ea812d9c95c27093dd0b7cff62d959679e190a8.jar" />
     </item>
     <item
         is-multidex="false"
@@ -396,6 +450,15 @@
         revision="25.0.1"
         sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
         <dex dex="/Users/kelvanince/Projects/places/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_5fe63c4a471f1d926ec591f9f1a6ea868c2cd2e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kelvanince/Projects/places/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/kelvanince/Projects/places/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.0.1_007a0b9e118edf8b8c6e7b074182fcd43c7dae54.jar" />
     </item>
     <item
         is-multidex="false"

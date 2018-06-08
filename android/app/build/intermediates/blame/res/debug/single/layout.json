@@ -4,6 +4,10 @@
         "source": "/Users/kelvanince/Projects/places/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_list_menu_item_icon.xml"
     },
     {
+        "merged": "/Users/kelvanince/Projects/places/android/app/build/intermediates/res/merged/debug/layout/amu_info_window.xml",
+        "source": "/Users/kelvanince/Projects/places/android/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.5/res/layout/amu_info_window.xml"
+    },
+    {
         "merged": "/Users/kelvanince/Projects/places/android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
         "source": "/Users/kelvanince/Projects/places/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
@@ -184,6 +188,10 @@
         "source": "/Users/kelvanince/Projects/places/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/layout/design_navigation_menu_item.xml"
     },
     {
+        "merged": "/Users/kelvanince/Projects/places/android/app/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/Users/kelvanince/Projects/places/android/app/build/intermediates/exploded-aar/places/react-native-image-picker/unspecified/res/layout/list_item.xml"
+    },
+    {
         "merged": "/Users/kelvanince/Projects/places/android/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
         "source": "/Users/kelvanince/Projects/places/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/support_simple_spinner_dropdown_item.xml"
     },
@@ -206,6 +214,14 @@
     {
         "merged": "/Users/kelvanince/Projects/places/android/app/build/intermediates/res/merged/debug/layout/dev_loading_view.xml",
         "source": "/Users/kelvanince/Projects/places/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/layout/dev_loading_view.xml"
+    },
+    {
+        "merged": "/Users/kelvanince/Projects/places/android/app/build/intermediates/res/merged/debug/layout/amu_text_bubble.xml",
+        "source": "/Users/kelvanince/Projects/places/android/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.5/res/layout/amu_text_bubble.xml"
+    },
+    {
+        "merged": "/Users/kelvanince/Projects/places/android/app/build/intermediates/res/merged/debug/layout/amu_webview.xml",
+        "source": "/Users/kelvanince/Projects/places/android/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.5/res/layout/amu_webview.xml"
     },
     {
         "merged": "/Users/kelvanince/Projects/places/android/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
