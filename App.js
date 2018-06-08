@@ -15,6 +15,30 @@ Navigation.registerComponent(
   store,
   Provider
 );
+Navigation.registerComponent(
+  "places.SharePlaceScreen",
+  () => SharePlaceScreen,
+  store,
+  Provider
+);
+Navigation.registerComponent(
+  "places.FindPlaceScreen",
+  () => FindPlaceScreen,
+  store,
+  Provider
+);
+Navigation.registerComponent(
+  "places.PlaceDetailScreen",
+  () => PlaceDetailScreen,
+  store,
+  Provider
+);
+Navigation.registerComponent(
+  "places.SideDrawer",
+  () => SideDrawer,
+  store,
+  Provider
+);
 
 export default () => Navigation.startSingleScreenApp({
   screen: {
